@@ -1,0 +1,17 @@
+body{
+    background-image: url("Img/medicaldevices2.jpg");
+    background-size: 1540px;
+
+}
+.nav-main{
+    font-size: 17px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    padding: 20px 0;
+
+}
+.nav-logo{
+    width: 50px;
+}
