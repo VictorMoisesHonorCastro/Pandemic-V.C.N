@@ -6,15 +6,15 @@ public class Viruses {
 		
 		return 0;
 	}
-	 public Viruses(String nombre) {
-	      this.nombre = nombre;
-	   }
+	public Viruses(String nombre) {
+	    this.nombre = nombre;
+	}
 	
 	public String getNombreVirus() {
-	      return nombre;
-	   }
+	    return nombre;
+	}
 
-	   public void setNombreVirus(String nombre) {
-	      this.nombre = nombre;
-	   }
+	public void setNombreVirus(String nombre) {
+	    this.nombre = nombre;
+	}
 }
